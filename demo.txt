@@ -1,9 +1,0 @@
-Hi this is demo text file - first commit
-Hi this is demo text file - second commit
-Hi this is demo text file - wrong commit 
-testing revert
-Revert one
-testing revert
-Revert two
-testing revert again
-revert first
