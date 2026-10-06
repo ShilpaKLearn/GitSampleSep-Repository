@@ -4,6 +4,4 @@ Hi this is demo text file - wrong commit
 testing revert
 Revert one
 testing revert
-Revert 
-testing revert
-Revert three
+Revert two
