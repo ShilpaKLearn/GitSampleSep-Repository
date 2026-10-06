@@ -1,0 +1,3 @@
+Testing soft reset 
+testing soft reset one
+testing soft reset two
