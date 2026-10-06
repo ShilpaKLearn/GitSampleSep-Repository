@@ -1,2 +1,3 @@
 Testing soft reset 
 t222222
+r222222
