@@ -6,6 +6,4 @@ Revert one
 testing revert
 Revert two
 testing revert again
-revert 
-testing revert again
-revert second
+revert first
