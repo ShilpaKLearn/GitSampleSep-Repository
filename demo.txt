@@ -1,2 +1,3 @@
-
-
+Hi this is demo text file - first commit
+Hi this is demo text file - second commit
+Hi this is demo text file - wrong commit
